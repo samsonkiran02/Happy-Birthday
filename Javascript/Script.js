@@ -1,5 +1,5 @@
-/* file name: Script(1).js */
-/* file location name: Javascript/Script(1).js */
+/* file name: Script.js */
+/* file location name: Javascript/Script.js */
 
 function openpopupbox() {
      document.getElementById("click to open or close popup box").style.display = "block";
