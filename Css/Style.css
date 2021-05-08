@@ -1,6 +1,15 @@
 /* file name: Style.css */
 /* file location name: Css/Style.css */
 
+/* for without copy {starts} */
+ .unselectable {
+        -webkit-user-select: none;
+        -webkit-touch-callout: none;
+        -moz-user-select: none;
+        -ms-user-select: none;
+        user-select: none;
+      }
+/* for without copy {end} */
 
 /* for background patasu {starts} */
 /* for fire sound */
