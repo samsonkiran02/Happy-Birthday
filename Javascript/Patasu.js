@@ -1,6 +1,22 @@
 /*! Copyright | (c) SamsonKiran | author: Samson Kiran */
 
 
+/* for Popup box and Happy birthday music */
+
+
+
+function openpopupbox() {
+     document.getElementById("click to open or close popup box").style.display = "block";
+
+     x.play(); 
+}
+
+function closepopupbox() {
+     document.getElementById("click to open or close popup box").style.display = "none";
+
+     x.pause(); 
+}
+/* for click to open Popup box or close Popup box and click to play Happy birthday music {end} */
 
 
 
